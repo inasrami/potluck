@@ -2,7 +2,7 @@
 
 A shared recipe site built with React (Vite) and Supabase. Anyone can browse recipes; registered users can share their own, edit or delete their recipes, and comment on others.
 
-**Live site:** `<ADD YOUR DEPLOYED LINK HERE>`
+**Live site:** `https://potluck-fawn-ten.vercel.app`
 
 ## Install and run
 
