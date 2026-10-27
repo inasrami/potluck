@@ -20,7 +20,7 @@ export default function Layout() {
         </>)}
       </nav></header>
       <main className="wrap"><Outlet /></main>
-      <footer className="wrap foot">PotLuck: recipes from people who actually cook them.</footer>
+      <footer className="wrap foot">© PotLuck recipe sharing</footer>
     </>
   );
 }

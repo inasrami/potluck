@@ -102,7 +102,7 @@ A shared recipe site built with React (Vite) and Supabase. Anyone can browse rec
 
 **Context API:** `AuthContext` shares `user`, `name`, `login`, `register` and `logout`. It is used by the Layout (navbar), the route guards, the Details, Create, Edit and My recipes pages, and the auth forms.
 
-**Styling:** a single external stylesheet, `src/index.css`, with CSS variables for the colour palette.
+**Styling:** a single external stylesheet, `src/index.css`, with CSS variables for a limited colour palette and system fonts (Arial).
 
 ## 10. Typical User Flow
 
